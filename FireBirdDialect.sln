@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireBirdDialect", "FireBirdDialect\FireBirdDialect.csproj", "{141CEEB7-6423-4D75-9C2B-4D6D43808EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{EE4C124D-435C-4E63-9417-F08C134BCA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141CEEB7-6423-4D75-9C2B-4D6D43808EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141CEEB7-6423-4D75-9C2B-4D6D43808EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141CEEB7-6423-4D75-9C2B-4D6D43808EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141CEEB7-6423-4D75-9C2B-4D6D43808EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4C124D-435C-4E63-9417-F08C134BCA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4C124D-435C-4E63-9417-F08C134BCA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4C124D-435C-4E63-9417-F08C134BCA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4C124D-435C-4E63-9417-F08C134BCA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B207715C-8622-4A39-BC81-AE1B412EAADC}
+	EndGlobalSection
+EndGlobal

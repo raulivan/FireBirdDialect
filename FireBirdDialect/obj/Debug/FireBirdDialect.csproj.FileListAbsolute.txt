@@ -1,0 +1,10 @@
+C:\Users\rauli\source\repos\FireBirdDialect\FireBirdDialect\bin\Debug\FireBirdDialect.dll
+C:\Users\rauli\source\repos\FireBirdDialect\FireBirdDialect\bin\Debug\FireBirdDialect.pdb
+C:\Users\rauli\source\repos\FireBirdDialect\FireBirdDialect\bin\Debug\Dapper.dll
+C:\Users\rauli\source\repos\FireBirdDialect\FireBirdDialect\bin\Debug\DapperExtensions.dll
+C:\Users\rauli\source\repos\FireBirdDialect\FireBirdDialect\bin\Debug\Dapper.pdb
+C:\Users\rauli\source\repos\FireBirdDialect\FireBirdDialect\bin\Debug\DapperExtensions.pdb
+C:\Users\rauli\source\repos\FireBirdDialect\FireBirdDialect\obj\Debug\FireBirdDialect.csproj.CoreCompileInputs.cache
+C:\Users\rauli\source\repos\FireBirdDialect\FireBirdDialect\obj\Debug\FireBirdDialect.csproj.CopyComplete
+C:\Users\rauli\source\repos\FireBirdDialect\FireBirdDialect\obj\Debug\FireBirdDialect.dll
+C:\Users\rauli\source\repos\FireBirdDialect\FireBirdDialect\obj\Debug\FireBirdDialect.pdb
