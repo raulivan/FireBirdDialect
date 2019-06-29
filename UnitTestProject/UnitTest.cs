@@ -12,7 +12,7 @@ namespace UnitTestProject
         public void TestMethod1()
         {
 
-            var connectionString = @"User=SYSDBA;Password=masterkey;Database=D:\NEFRODATA\Banco de Dados\INSTITUTO_NOVO.FDB;DataSource=localhost;Port=3050;Dialect=3;Charset=NONE;Role=;Connection lifetime=15;Pooling=true;MinPoolSize=0;MaxPoolSize=50;Packet Size=8192;ServerType=0;";
+            var connectionString = @"User=SYSDBA;Password=masterkey;Database=SEU_BANCO.FDB;DataSource=localhost;Port=3050;Dialect=3;Charset=NONE;Role=;Connection lifetime=15;Pooling=true;MinPoolSize=0;MaxPoolSize=50;Packet Size=8192;ServerType=0;";
             var connection = new FbConnection(connectionString);
             connection.Open();
 
